@@ -1,3 +1,5 @@
+## Note: I would not recommend cloning this directory to see what I've done. It would be better to go through the "Getting Started with Create React App" steps below, then replacing the contents of the src folder with the files in my scr folder!
+
 ## I followed along this tutorial: https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial  
 This is still a work in progress since I would like to make the Tic Tac Toe game a bit nicer, but the game works!
 
