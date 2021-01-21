@@ -1,3 +1,6 @@
+## I followed along this tutorial: https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial  
+This is still a work in progress since I would like to make the Tic Tac Toe game a bit nicer, but the game works!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
